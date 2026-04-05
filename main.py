@@ -50,7 +50,7 @@ If not related, say contact society office.
         headers={
             "Authorization": f"Bearer {OPENROUTER_API_KEY}",
             "Content-Type": "application/json",
-            "HTTP-Referer": "http://localhost:3000",
+            "HTTP-Referer": "https://griha-link.vercel.app/",
             "X-Title": "GrihaLink"
         },
         json={
